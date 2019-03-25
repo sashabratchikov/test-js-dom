@@ -22,5 +22,3 @@ alert('Привет, мир!');
 ### FAQ
 
 * Тесты должны работать Я.Браузере, Chrome, Firefox, Safari, Opera, Edge, IE11;
-
-Вопросы задавайте в телеграм: [@bratchikov](https://t.me/bratchikov)
